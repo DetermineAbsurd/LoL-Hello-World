@@ -1,3 +1,3 @@
 void main() {
-    print( "My first Vala program!\n" );
+    print( "Hello World!\n" );
 }
